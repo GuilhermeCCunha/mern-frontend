@@ -9,10 +9,11 @@ Este projeto eu fiz durante o curso React, NodeJS, Express & MongoDB - The MERN 
 - Autorização
 - Upload de imagens
 - CRUD
+- Uso da API Geocoding do Google para converter um endereço em coordenadas
 
-<!-- ## API
+## API
 
-([Veja aqui o repositório da API deste projeto](https://github.com/GuilhermeCCunha/mern-backend)). -->
+([Veja aqui o repositório da API deste projeto](https://github.com/GuilhermeCCunha/mern-backend)).
 
 ## Como usá-lo
 
